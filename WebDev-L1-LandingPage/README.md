@@ -1,4 +1,219 @@
-*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth;scroll-padding-top:85px}body{background:#0b1220;color:#f2f7f6;font:15px "DM Sans",sans-serif;line-height:1.7}a{color:inherit;text-decoration:none}.wrap{width:min(1120px,calc(100% - 44px));margin:auto}.header{position:sticky;top:0;z-index:9;background:#0b1220ed;backdrop-filter:blur(14px);border-bottom:1px solid #ffffff16}.nav{height:74px;display:flex;align-items:center;justify-content:space-between}.logo{font:700 20px "Space Grotesk";display:flex;align-items:center;gap:9px}.logo b{display:grid;place-items:center;background:#18c79a;color:#071a19;width:34px;height:34px;border-radius:10px}.logo span{color:#18c79a}.links{display:flex;align-items:center;gap:26px;color:#a4b2bd;font-size:13px;font-weight:600}.links a:hover,.textlink,.projects article>a{color:#18c79a}.contact-nav{border:1px solid #ffffff25;padding:9px 14px;border-radius:8px;color:#fff}#menu,.hamb{display:none}.hero{min-height:620px;padding-block:75px;display:grid;grid-template-columns:1.05fr .95fr;align-items:center;gap:50px}.eyebrow{font-size:10px;letter-spacing:2px;color:#18c79a;font-weight:700}.eyebrow i{display:inline-block;width:7px;height:7px;background:#18c79a;border-radius:50%;margin-right:8px}h1,h2,h3{font-family:"Space Grotesk";line-height:1.12;letter-spacing:-1.4px}h1{font-size:clamp(44px,6vw,72px);margin:23px 0}.hero em,.end em{font-style:normal;color:#18c79a}.lead{color:#a4b2bd;max-width:510px;line-height:1.9}.lead strong{color:#fff}.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:30px}.btn{padding:12px 17px;border:1px solid #ffffff25;border-radius:8px;font-size:13px;font-weight:700}.primary{background:#18c79a;color:#071a19;border-color:#18c79a}.btn:hover{transform:translateY(-2px)}.meta{margin-top:35px;color:#718292;font-size:11px}.meta b{color:#18c79a;margin:0 9px}.visual{min-height:430px;display:grid;place-items:center;position:relative}.glow{position:absolute;width:350px;height:350px;border-radius:50%;background:r
-adial-gradient(circle,#18c79a35,transparent 70%)}.portrait{position:relative;width:min(330px,78%);aspect-ratio:.82;padding:9px;border:1px solid #18c79a88;border-radius:170px 170px 22px 22px;background:linear-gradient(140deg,#18c79a28,#142235)}.portrait img{width:100%;height:100%;object-fit:cover;object-position:center 32%;border-radius:160px 160px 15px 15px}.caption{position:absolute;bottom:23px;left:22px;background:#0b1220e8;padding:9px 13px;border:1px solid #ffffff22;border-radius:8px;font-size:11px;font-weight:700}.caption small{display:block;color:#a4b2bd;font-weight:400}.float{position:absolute;background:#142235;border:1px solid #ffffff20;border-radius:10px;padding:11px 14px;font-size:10px;font-weight:700;box-shadow:0 12px 30px #0005}.f1{top:65px;left:0;color:#18c79a}.f2{right:0;bottom:60px;color:#18c79a}.ticker{border-block:1px solid #ffffff18;background:#0e1928}.ticker .wrap{min-height:70px;display:flex;align-items:center;justify-content:space-between;gap:16px;color:#a4b2bd;font:700 10px "Space Grotesk";letter-spacing:1.4px;white-space:nowrap}.ticker b{color:#18c79a;font-size:17px}.section{padding-block:95px}h2{font-size:clamp(34px,4.5vw,52px);margin:14px 0 34px}h2 span{color:#81919e}.two{display:grid;grid-template-columns:1fr 1fr;gap:65px}.big{font:500 21px/1.6 "Space Grotesk"}.muted{color:#a4b2bd;line-height:1.9;font-size:13px}.textlink{display:inline-block;margin-top:17px;font-size:12px;font-weight:700}.soft{background:#101b2b;border-block:1px solid #ffffff15}.note{max-width:540px;margin-top:-15px;margin-bottom:30px}.cards{display:grid;gap:15px}.skills{grid-template-columns:repeat(4,1fr)}.skills article,.projects article{padding:22px;border:1px solid #ffffff18;border-radius:13px;background:#142235}.skills article{min-height:155px}.skills small,.projects small{font-size:9px;letter-spacing:1px;color:#18c79a;font-weight:700}.skills h3{font-size:17px;margin:24px 0 8px}.skills p,.projects article p{color:#a4b2bd;font-size:11px;line-height:1.8}.projects{grid-te
-mplate-columns:repeat(2,minmax(0,1fr))}.projects article{background:#101c2c;padding:16px}.art{height:155px;margin:16px 0;border-radius:8px;display:grid;place-items:center;background:#183246}.art b{font:700 52px "Space Grotesk";color:#18c79a}.art2{background:linear-gradient(130deg,#182d40,#1c493f)}.art3{background:linear-gradient(130deg,#16263a,#173a3c)}.art4{background:linear-gradient(130deg,#132d3d,#174d45)}.art4 b{font-size:34px}.window{background:#0b1220;border:1px solid #ffffff25;border-radius:8px;padding:14px;width:68%;font-size:9px;color:#18c79a}.window hr{border:0;border-top:1px solid #ffffff20;margin:12px 0}.window b{color:#fff}.bars{height:28px;width:60%;margin-top:9px;background:linear-gradient(#087f68 0 7px,transparent 7px 13px,#214657 13px 20px,transparent 20px)}.projects h3{font-size:18px;margin:5px 0 8px}.projects article p{min-height:55px}.projects article>a{font-size:10px;font-weight:700;margin-right:10px}.community{display:grid;grid-template-columns:.9fr 1.1fr;gap:55px;align-items:center}.community article{display:grid;grid-template-columns:55px 1fr;gap:15px;padding:24px;border:1px solid #ffffff20;border-radius:13px;background:#142235}.pdh{width:53px;height:53px;display:grid;place-items:center;border-radius:12px;background:#18c79a20;color:#18c79a;font:700 14px "Space Grotesk"}.community small{color:#18c79a;font-size:9px;letter-spacing:1px}.community h3{font-size:19px;margin:6px 0 10px}.end{text-align:center}.end h2{font-size:clamp(38px,5vw,58px)}.end .note{margin:0 auto 28px}.social{display:flex;justify-content:center;gap:10px;flex-wrap:wrap}.social a{padding:11px 15px;border:1px solid #ffffff25;border-radius:8px;font-size:11px;font-weight:600}.social a:hover{border-color:#18c79a;color:#18c79a}footer{border-top:1px solid #ffffff18;background:#08101c}.foot{min-height:78px;display:flex;align-items:center;justify-content:space-between;gap:15px}.foot p,.foot small{font-size:10px;color:#718292}@media(max-width:900px){.skills{grid-template-columns:repeat(
-2,1fr)}.links{gap:14px}.hero{gap:20px}}@media(max-width:680px){.wrap{width:calc(100% - 34px)}.nav{height:66px}.hamb{display:flex;flex-direction:column;gap:4px;padding:10px;border:1px solid #ffffff25;border-radius:8px}.hamb i{width:17px;height:2px;background:#fff}#menu:checked~.links{display:flex}.links{display:none;position:absolute;top:65px;left:0;right:0;padding:12px 20px 18px;background:#0b1220;flex-direction:column;align-items:stretch;border-bottom:1px solid #ffffff20}.links a{padding:8px}.contact-nav{text-align:center}.hero{grid-template-columns:1fr;padding-block:60px;gap:25px}.visual{min-height:370px}.portrait{width:min(285px,78%)}.f1{left:0;top:45px}.f2{right:0;bottom:45px}.ticker .wrap{justify-content:flex-start;overflow:auto;font-size:8px}.section{padding-block:70px}.two,.community{grid-template-columns:1fr;gap:23px}.skills,.projects{grid-template-columns:1fr}.skills article{min-height:130px}.projects article p{min-height:0}.community article{grid-template-columns:45px 1fr;padding:17px}.pdh{width:43px;height:43px}.foot{padding-block:18px;flex-wrap:wrap}.foot p{order:3;width:100%}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}
+YASEEN BALOCH | PERSONAL BRAND LANDING PAGE
+
+A Modern Digital Identity — Designed with HTML5 & CSS3
+
+<p align="center">
+  A responsive, modern, and professionally structured personal brand website built to present my identity, technical interests, selected work, and development journey.
+</p><p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Responsive-Design-18C79A?style=for-the-badge" alt="Responsive Design">
+  <img src="https://img.shields.io/badge/Status-Completed%20Development-087F68?style=for-the-badge" alt="Development status">
+</p>---
+
+01. PROJECT OVERVIEW
+
+The Personal Brand Landing Page is a frontend web development project created to establish a clean, professional, and engaging digital presence.
+
+The website introduces Yaseen Baloch, a Computer Science undergraduate, aspiring Software Engineer, Web Development learner, and AI Automation enthusiast.
+
+Its purpose is to communicate personal identity, highlight technical interests, showcase selected projects, present community leadership, and provide accessible professional contact channels.
+
+The interface follows a Dark Navy and Emerald Green visual direction, combining clear typography, structured content, responsive layouts, and carefully organized sections.
+
+02. PROJECT OBJECTIVES
+
+- Develop a professional personal brand landing page.
+- Apply semantic HTML5 structure and modern CSS3 styling.
+- Build a clear and intuitive navigation experience.
+- Present personal information and technical interests effectively.
+- Showcase selected projects and community involvement.
+- Implement responsive layouts for mobile, tablet, and desktop.
+- Practice maintainable frontend structure and clean styling.
+
+03. TECHNOLOGY STACK
+
+Technology| Implementation
+HTML5| Semantic page structure and content
+CSS3| Visual styling and responsive layouts
+CSS Flexbox| Navigation, alignment, and flexible components
+CSS Grid| Structured content and project layouts
+Media Queries| Responsive behavior across screen sizes
+Google Fonts| DM Sans and Space Grotesk typography
+
+Architecture: Static frontend website
+JavaScript: Not required
+External Frameworks: None
+
+04. FEATURE BREAKDOWN
+
+Navigation
+
+- Sticky navigation bar.
+- Multiple section navigation links.
+- Responsive CSS-only mobile navigation.
+- Clear contact call-to-action.
+
+Hero Section
+
+- Personal introduction and professional headline.
+- Profile photograph.
+- Supporting description.
+- Primary and secondary call-to-action links.
+
+About Section
+
+- Educational background.
+- Personal development journey.
+- Technical and professional interests.
+
+Skills & Interests
+
+- Programming: Python, C++, JavaScript.
+- Web Development: HTML5, CSS3, Next.js.
+- AI & Automation: AI automation, AI agents, agentic workflows.
+- Tools: Git, GitHub, VS Code, Claude-assisted development.
+
+Selected Projects
+
+- TaskFlow-Pro.
+- Python Learning.
+- Web Development Journey.
+- Personal Website — Next.js (In Progress).
+
+Leadership & Community
+
+- Founder of Pakistan Developer Hub (PDH).
+- Focus on technology learning, collaboration, and community development.
+
+Contact
+
+- Email.
+- WhatsApp.
+- GitHub.
+- LinkedIn.
+- Facebook.
+
+05. DESIGN SYSTEM
+
+The interface uses a consistent visual language built around a dark professional background and emerald accent color.
+
+Design Token| Hex Value| Usage
+Primary Background| "#0B1220"| Main page background
+Secondary Background| "#101B2B"| Alternate section background
+Surface| "#142235"| Cards and content surfaces
+Emerald Accent| "#18C79A"| Highlights and interactive elements
+Primary Text| "#F2F7F6"| Main typography
+Secondary Text| "#A4B2BD"| Supporting descriptions
+
+Typography
+
+- DM Sans — Body text and supporting content.
+- Space Grotesk — Headings and prominent interface elements.
+
+Visual Principles
+
+- Consistent spacing and alignment.
+- Clear content hierarchy.
+- Balanced contrast.
+- Subtle borders and hover states.
+- Responsive composition.
+
+06. RESPONSIVE IMPLEMENTATION
+
+The layout is designed to adapt to different screen sizes through CSS media queries, Flexbox, and Grid.
+
+Responsive considerations include:
+
+- Desktop navigation and multi-column layouts.
+- Tablet-friendly content arrangements.
+- Mobile navigation and vertically stacked sections.
+- Flexible project cards and contact links.
+- Consistent spacing and readable typography.
+
+07. PROJECT STRUCTURE
+
+WebDev-L1-LandingPage/
+│
+├── assets/
+│   └── profile.jpg
+│
+├── index.html
+├── style.css
+└── README.md
+
+File / Directory| Responsibility
+"index.html"| Main website structure and content
+"style.css"| Visual design and responsive styling
+"assets/"| Website image assets
+"README.md"| Project documentation
+
+08. INSTALLATION & EXECUTION
+
+This is a static frontend project. No package installation or build process is required.
+
+Option 1 — Download
+
+1. Download the project files.
+2. Extract the project folder.
+3. Open "index.html" in a modern web browser.
+
+Option 2 — Clone Repository
+
+git clone https://github.com/yaseenbalochpk/OIBSIP.git
+
+Navigate to the project directory:
+
+cd OIBSIP/WebDev-L1-LandingPage
+
+Open "index.html" in your browser.
+
+09. PROJECT QUALITY & DEVELOPMENT NOTES
+
+The implementation focuses on:
+
+- Organized HTML and CSS files.
+- Consistent naming and reusable styling patterns.
+- Responsive layout techniques.
+- Semantic page sections.
+- Descriptive image alternative text.
+- Safe external links using appropriate link attributes.
+- Reduced-motion preference support.
+
+The project uses HTML5 and CSS3 in accordance with the selected task's technology requirements.
+
+10. INTERNSHIP DETAILS
+
+Field| Information
+Organization| Oasis Infobyte
+Internship Track| Web Development & Designing
+Level| Level 1
+Task| Landing Page
+Project Category| Personal Brand Website
+Developer| Yaseen Baloch
+
+11. DEVELOPER PROFILE
+
+Muhammad Yaseen Baloch
+
+Computer Science undergraduate and aspiring Software Engineer with interests in modern web development, programming, AI automation, and technology entrepreneurship.
+
+I believe in continuous learning, practical implementation, knowledge sharing, and building meaningful digital solutions.
+
+Connect & Collaborate
+
+- GitHub: https://github.com/yaseenbalochpk
+- LinkedIn: https://www.linkedin.com/in/muhammad-yaseen-b308b53b1/
+- Facebook: https://www.facebook.com/share/1BTi6rtPhD/?mibextid=wwXIfr
+- Email: yaseenonliepk@gmail.com
+- WhatsApp: https://wa.me/9232021212826
+
+---
+
+<p align="center">
+  <strong>LEARN. BUILD. INNOVATE. GROW.</strong>
+  <br><br>
+  Designed and developed by <strong>Yaseen Baloch</strong>
+  <br>
+  © 2026 Yaseen Baloch
+</p>
