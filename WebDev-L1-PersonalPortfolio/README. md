@@ -1,1 +1,329 @@
+🚀 MUHAMMAD YASEEN | PERSONAL PORTFOLIO WEBSITE
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0B0B14&height=190&section=header&text=YASEEN%20BALOCH&fontSize=48&fontColor=C084FC&fontAlignY=40&desc=ASPIRING%20SOFTWARE%20ENGINEER%20%7C%20WEB%20DEVELOPER&descAlignY=68&descSize=16" width="100%" alt="Yaseen Baloch Portfolio Header">
+</p>
+<p align="center">
+  <strong>Turning Ideas into Digital Experiences.</strong>
+  <br>
+  A Premium, Responsive Developer Portfolio Built with HTML5 & CSS3.
+</p>
+<p align="center">
+  <a href="https://yaseenbalochpk.github.io/OIBSIP/WebDev-L1-PersonalPortfolio/">
+    <img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-A855F7?style=for-the-badge" alt="Live Website">
+  </a>
+  <a href="https://youtu.be/St_7uZtlI4U">
+    <img src="https://img.shields.io/badge/▶_WATCH_VIDEO_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo">
+  </a>
+  <a href="https://github.com/yaseenbalochpk/OIBSIP/tree/main/WebDev-L1-PersonalPortfolio">
+    <img src="https://img.shields.io/badge/⌘_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+  </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Responsive-Design-22C55E?style=for-the-badge&logo=responsive&logoColor=white" alt="Responsive Design">
+  <img src="https://img.shields.io/badge/Status-Completed-16A34A?style=for-the-badge" alt="Completed">
+</p>
+
+⸻
+
+✨ 01. PROJECT OVERVIEW
+
+The Personal Portfolio Website is a modern frontend development project created as part of the Oasis Infobyte Web Development & Designing Internship — Level 1, Task 2.
+
+The website represents my personal digital identity, showcasing my educational background, technical interests, development projects, community involvement, and professional contact information.
+
+Designed with a premium Dark Black & Purple visual theme, the portfolio combines modern typography, elegant visual effects, structured content, and responsive layouts.
+
+Its primary goal is to present my journey as an aspiring Software Engineer and provide visitors with a clear overview of my skills, interests, and development work.
+
+Design Philosophy: Learn continuously. Build meaningfully. Innovate confidently.
+
+🌐 02. EXPLORE THE LIVE PROJECT
+
+<p align="center">
+  <a href="https://yaseenbalochpk.github.io/OIBSIP/WebDev-L1-PersonalPortfolio/">
+    <img src="https://img.shields.io/badge/EXPLORE_LIVE_PORTFOLIO-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore Portfolio">
+  </a>
+</p>
+<p align="center">
+  <a href="https://youtu.be/St_7uZtlI4U">
+    <img src="https://img.shields.io/badge/WATCH_FULL_PROJECT_DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Project Demo">
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/yaseenbalochpk/OIBSIP/tree/main/WebDev-L1-PersonalPortfolio">
+    <img src="https://img.shields.io/badge/VIEW_GITHUB_SOURCE-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Source">
+  </a>
+</p>
+
+🖼️ 03. WEBSITE SCREENSHOTS
+
+A visual preview of the portfolio and its major sections.
+
+🏠 Homepage — Hero Section
+
+👨‍💻 About Me & Skills
+
+🚀 Projects Showcase
+
+📬 Contact & Social Links
+
+🎯 04. KEY FEATURES
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>✨ Premium Hero Section</h3>
+      Professional introduction, profile image, headline, and action buttons.
+    </td>
+    <td width="50%">
+      <h3>👨‍💻 About Me</h3>
+      Educational background, personal journey, and development interests.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>⚡ Skills & Interests</h3>
+      Programming, web development, AI automation, and tools.
+    </td>
+    <td>
+      <h3>🚀 Projects Showcase</h3>
+      Selected projects and ongoing development work.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🤝 Leadership & Journey</h3>
+      Community involvement and Pakistan Developer Hub.
+    </td>
+    <td>
+      <h3>📱 Responsive Layout</h3>
+      Adaptable layouts for mobile, tablet, and desktop.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>🎨 Modern Visual Design</h3>
+      Dark interface, purple accents, gradients, and elegant cards.
+    </td>
+    <td>
+      <h3>📬 Contact Integration</h3>
+      Social media, professional profiles, email, and WhatsApp links.
+    </td>
+  </tr>
+</table>
+
+🛠️ 05. TECHNOLOGY STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,vscode" alt="Technology Stack">
+</p>
+
+Technology	Implementation
+HTML5	Semantic structure and website content
+CSS3	Visual styling and interface design
+CSS Flexbox	Flexible layouts and alignment
+CSS Grid	Structured content and project cards
+CSS Media Queries	Responsive design
+Google Fonts	Space Grotesk and Inter typography
+
+Architecture: Static Frontend Website
+
+JavaScript: Not required
+
+Frameworks: None
+
+🎨 06. DESIGN SYSTEM
+
+The portfolio uses a premium dark visual identity with purple accents and subtle visual effects.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Background-09090F-09090F?style=for-the-badge" alt="Background">
+  <img src="https://img.shields.io/badge/Secondary-11111C-11111C?style=for-the-badge" alt="Secondary">
+  <img src="https://img.shields.io/badge/Surface-171725-171725?style=for-the-badge" alt="Surface">
+  <img src="https://img.shields.io/badge/Purple-A855F7-A855F7?style=for-the-badge" alt="Purple">
+</p>
+
+Design Token	Hex Code	Purpose
+Main Background	#09090F	Primary page background
+Secondary Background	#11111C	Alternate sections
+Card Background	#171725	Content cards
+Primary Accent	#A855F7	Highlights and buttons
+Secondary Accent	#7C3AED	Gradients and accents
+Main Text	#F8FAFC	Primary typography
+Secondary Text	#A1A1AA	Supporting descriptions
+
+Typography
+
+* Space Grotesk: Headings and prominent interface text.
+* Inter: Body text and supporting content.
+
+Visual Direction
+
+* Premium dark interface.
+* Purple gradient accents.
+* Subtle glow effects.
+* Modern card-based layouts.
+* Clear typography and spacing.
+* Responsive composition.
+
+💼 07. SKILLS & TECHNICAL INTERESTS
+
+The portfolio highlights the technologies and areas I am learning, practicing, and exploring.
+
+Category	Technologies & Interests
+Programming	Python, C++, JavaScript
+Web Development	HTML5, CSS3, Next.js
+AI & Automation	AI Agents, Agentic Workflows
+Tools & Workflow	Git, GitHub, VS Code
+Development	Responsive Design, Frontend Development
+
+🚀 08. SELECTED PROJECTS
+
+The portfolio features selected development projects and learning initiatives.
+
+📋 TaskFlow-Pro
+
+A productivity and task management project.
+
+Status: Completed
+
+🐍 Python Learning
+
+A repository documenting Python programming practice and learning.
+
+🌐 Web Development Journey
+
+A collection of frontend development learning and practice work.
+
+⚛️ Personal Website — Next.js
+
+An ongoing personal website development project.
+
+Status: In Progress
+
+🤝 09. LEADERSHIP & COMMUNITY
+
+Pakistan Developer Hub (PDH)
+
+Founder of Pakistan Developer Hub, a community initiative focused on technology learning, collaboration, knowledge sharing, and developer growth.
+
+The initiative reflects my interest in leadership, community building, and helping others explore technology.
+
+🔗 Visit Pakistan Developer Hub on LinkedIn
+
+📱 10. RESPONSIVE DESIGN
+
+The portfolio is designed to provide a consistent experience across different devices.
+
+* 🖥️ Desktop — Structured layouts and full navigation.
+* 📱 Mobile — Compact navigation and vertically arranged content.
+* 📟 Tablet — Flexible content arrangements.
+* ♿ Accessibility — Semantic sections and descriptive image text.
+
+Responsive behavior is implemented using CSS Media Queries, Flexbox, and Grid.
+
+📂 11. PROJECT STRUCTURE
+
+WebDev-L1-PersonalPortfolio/
+│
+├── assets/
+│   └── profile.jpg
+│
+├── screenshots/
+│   ├── homepage.png
+│   ├── about-skills.png
+│   ├── projects.png
+│   └── contact.png
+│
+├── index.html
+├── style.css
+└── README.md
+
+File / Directory	Description
+index.html	Main website structure
+style.css	Visual design and responsive styling
+assets/	Profile photograph and image assets
+screenshots/	Website preview images
+README.md	Project documentation
+
+⚙️ 12. INSTALLATION & EXECUTION
+
+This is a static frontend project. No package installation or build process is required.
+
+Step 1 — Clone Repository
+
+git clone https://github.com/yaseenbalochpk/OIBSIP.git
+
+Step 2 — Navigate to Project
+
+cd OIBSIP/WebDev-L1-PersonalPortfolio
+
+Step 3 — Open Website
+
+Open index.html in your preferred modern web browser.
+
+🏢 13. INTERNSHIP INFORMATION
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ORGANIZATION-OASIS_INFOBYTE-A855F7?style=for-the-badge" alt="Oasis Infobyte">
+  <img src="https://img.shields.io/badge/INTERNSHIP-WEB_DEVELOPMENT-2563EB?style=for-the-badge" alt="Web Development">
+</p>
+
+Field	Details
+Organization	Oasis Infobyte
+Program	Oasis Infobyte Internship
+Track	Web Development & Designing
+Level	Level 1
+Task	Task 2 — Personal Portfolio
+Project Category	Personal Portfolio Website
+Full Name	Muhammad Yaseen
+Personal Brand	Yaseen Baloch
+
+👨‍💻 14. ABOUT THE DEVELOPER
+
+Muhammad Yaseen
+
+Personal Brand: Yaseen Baloch
+
+Computer Science undergraduate and aspiring Software Engineer with interests in programming, modern web development, AI automation, and technology entrepreneurship.
+
+Focused on continuous learning, practical implementation, community collaboration, and building meaningful digital solutions.
+
+🤝 Let’s Connect & Collaborate
+
+<p align="center">
+  <a href="https://github.com/yaseenbalochpk">
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-yaseen-b308b53b1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/share/1BTi6rtPhD/">
+    <img src="https://img.shields.io/badge/Facebook-Follow-0866FF?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+</p>
+<p align="center">
+  <a href="mailto:yaseenonliepk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/9232021212826">
+    <img src="https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://youtube.com/@yaseenbalochpk">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</p>
+
+⸻
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0B14&height=120&section=footer" width="100%" alt="Footer">
+  <strong>LEARN. BUILD. INNOVATE. GROW.</strong>
+  <br><br>
+  Designed & Developed with ❤️ by <strong>Yaseen Baloch</strong>
+  <br>
+  © 2026 Yaseen Baloch
+</p>
