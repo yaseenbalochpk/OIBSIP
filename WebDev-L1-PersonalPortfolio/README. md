@@ -1,49 +1,184 @@
 # ✦ YASEEN BALOCH
+### PERSONAL PORTFOLIO WEBSITE
 
-## PERSONAL PORTFOLIO WEBSITE
+**A Premium Digital Identity — Designed with HTML5 & CSS3**
 
-### A Premium Digital Identity — Designed with HTML5 & CSS3
+*Turning Ideas into Digital Experiences.*
 
-**Turning Ideas into Digital Experiences.**
+A modern, responsive personal portfolio created to showcase my professional identity, technical skills, selected projects, leadership experience, and journey in technology.
 
-[🌐 LIVE WEBSITE](https://yaseenbalochpk.github.io/OIBSIP/WebDev-L1-PersonalPortfolio/)
+---
 
-[▶ WATCH VIDEO DEMO](https://youtu.be/St_7uZtlI4U)
+### 🌐 EXPLORE THE PROJECT
 
-[⌘ SOURCE CODE](https://github.com/yaseenbalochpk/OIBSIP/tree/main/WebDev-L1-PersonalPortfolio)
+[![LIVE WEBSITE](https://img.shields.io/badge/🌐_LIVE_WEBSITE-EXPLORE_PORTFOLIO-22C55E?style=for-the-badge)](https://yaseenbalochpk.github.io/OIBSIP/WebDev-L1-PersonalPortfolio/)
 
-![HTML5](https://img.shields.io/badge/HTML5-STRUCTURE-E34F26?style=for-the-badge&logo=html5)
+[![VIDEO DEMO](https://img.shields.io/badge/▶_VIDEO_DEMO-WATCH_ON_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/St_7uZtlI4U)
 
-![CSS3](https://img.shields.io/badge/CSS3-STYLING-1572B6?style=for-the-badge&logo=css3)
+[![SOURCE CODE](https://img.shields.io/badge/⌘_SOURCE_CODE-VIEW_ON_GITHUB-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yaseenbalochpk/OIBSIP/tree/main/WebDev-L1-PersonalPortfolio)
+
+![HTML5](https://img.shields.io/badge/HTML5-STRUCTURE-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-STYLING-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![RESPONSIVE](https://img.shields.io/badge/RESPONSIVE-MOBILE_FRIENDLY-16A34A?style=for-the-badge)
+![INTERNSHIP](https://img.shields.io/badge/OASIS_INFOBYTE-LEVEL_1_TASK_2-A855F7?style=for-the-badge)
 
 ---
 
 ## ✨ 01. PROJECT OVERVIEW
 
-A modern, responsive personal portfolio showcasing my professional identity, technical skills, selected projects, leadership experience, and development journey.
+The **Personal Portfolio Website** is a frontend development project created as part of the **Oasis Infobyte Web Development & Designing Internship — Level 1, Task 2**.
+
+This project presents my professional identity through a modern, visually engaging, and responsive digital portfolio.
+
+The website introduces **Muhammad Yaseen**, professionally known as **Yaseen Baloch** — a Computer Science undergraduate and aspiring Software Engineer interested in programming, modern web development, AI automation, and technology entrepreneurship.
+
+The design combines a premium dark interface, purple accents, contemporary typography, elegant content cards, and responsive layouts.
+
+> **Design Philosophy:** Learn continuously. Build meaningfully. Innovate confidently.
 
 ---
 
-## 🛠️ 02. TECHNOLOGY STACK
+## 🎯 02. PROJECT OBJECTIVES
 
-| Technology | Purpose |
+- Create a professional personal portfolio website.
+- Establish a strong and consistent digital identity.
+- Present educational background and technical interests.
+- Showcase selected projects and practical experience.
+- Apply semantic HTML5 and modern CSS3.
+- Implement responsive layouts for different devices.
+- Provide accessible professional contact channels.
+
+---
+
+## ⚡ 03. KEY FEATURES
+
+| Feature | Description |
 |---|---|
-| HTML5 | Website structure |
-| CSS3 | Styling and presentation |
-| Flexbox | Flexible layouts |
-| CSS Grid | Content layouts |
-| Media Queries | Responsive design |
+| ✨ Hero Section | Professional introduction, profile image and action links |
+| 👨‍💻 About Me | Educational background and development journey |
+| ⚙️ Skills & Interests | Programming, web development and AI interests |
+| 🚀 Projects Showcase | Selected projects and development work |
+| 🤝 Leadership | Pakistan Developer Hub community involvement |
+| 📱 Responsive Design | Layouts for mobile, tablet and desktop |
+| 🎨 Premium Interface | Dark theme, purple accents and elegant cards |
+| 📬 Contact Section | Professional and social media connections |
 
 ---
 
-## 👨‍💻 03. ABOUT THE DEVELOPER
+## 🛠️ 04. TECHNOLOGY STACK
 
-**Muhammad Yaseen**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-Personal Brand: Yaseen Baloch
+| Technology | Implementation |
+|---|---|
+| HTML5 | Semantic website structure |
+| CSS3 | Visual styling and presentation |
+| CSS Flexbox | Flexible layouts and alignment |
+| CSS Grid | Structured content layouts |
+| Media Queries | Responsive behavior |
+| Google Fonts | Modern typography |
 
-[GitHub](https://github.com/yaseenbalochpk) · [LinkedIn](https://www.linkedin.com/in/muhammad-yaseen-b308b53b1/) · [YouTube](https://youtube.com/@yaseenbalochpk)
+**Architecture:** Static Frontend Website
+
+**JavaScript:** Not required
+
+**External Frameworks:** None
 
 ---
 
-**LEARN. BUILD. INNOVATE. GROW.**
+## 🎨 05. DESIGN SYSTEM
+
+The portfolio follows a premium Dark Black and Purple visual direction.
+
+| Design Token | Color | Purpose |
+|---|---|---|
+| Main Background | `#09090F` | Primary background |
+| Secondary Background | `#11111C` | Alternate sections |
+| Card Surface | `#171725` | Content cards |
+| Primary Accent | `#A855F7` | Highlights and buttons |
+| Secondary Accent | `#7C3AED` | Accent details |
+| Primary Text | `#F8FAFC` | Main typography |
+| Secondary Text | `#A1A1AA` | Supporting content |
+
+**Typography**
+
+- Space Grotesk — Headings.
+- Inter — Body text.
+
+**Visual Principles**
+
+- Clear visual hierarchy.
+- Consistent spacing and alignment.
+- Balanced contrast.
+- Subtle gradients and borders.
+- Responsive composition.
+
+---
+
+## 💼 06. SKILLS & TECHNICAL INTERESTS
+
+| Category | Skills & Interests |
+|---|---|
+| Programming | Python, C++, JavaScript |
+| Web Development | HTML5, CSS3, Next.js |
+| AI & Automation | AI Agents, Agentic Workflows |
+| Development Tools | Git, GitHub, VS Code |
+| Frontend | Responsive Design and UI Development |
+
+---
+
+## 🚀 07. SELECTED PROJECTS
+
+### 📋 TaskFlow-Pro
+A productivity and task management project.
+
+### 🐍 Python Learning
+A repository documenting Python programming practice and learning.
+
+### 🌐 Web Development Journey
+A collection of frontend development practice and learning.
+
+### ⚛️ Personal Website — Next.js
+An ongoing personal website development project.
+
+---
+
+## 🤝 08. LEADERSHIP & COMMUNITY
+
+### Pakistan Developer Hub — PDH
+
+Founder of **Pakistan Developer Hub**, a community initiative focused on technology learning, collaboration, knowledge sharing, and developer growth.
+
+[![PAKISTAN DEVELOPER HUB](https://img.shields.io/badge/LINKEDIN-PAKISTAN_DEVELOPER_HUB-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/groups/39563021)
+
+---
+
+## 📱 09. RESPONSIVE IMPLEMENTATION
+
+The website is designed to adapt to different screen sizes using CSS Flexbox, Grid, and Media Queries.
+
+- **Desktop:** Structured layouts and navigation.
+- **Tablet:** Flexible content arrangements.
+- **Mobile:** Compact navigation and vertically arranged sections.
+- **Accessibility:** Semantic sections and descriptive image text.
+
+---
+
+## 📂 10. PROJECT STRUCTURE
+
+```text
+WebDev-L1-PersonalPortfolio/
+│
+├── assets/
+│   └── profile.jpg
+│
+├── screenshots/
+│   └── Project preview images
+│
+├── index.html
+├── style.css
+└── README.md
