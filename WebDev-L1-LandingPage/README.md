@@ -1,68 +1,83 @@
-YASEEN BALOCH | PERSONAL BRAND LANDING PAGE
-
-A Modern Digital Identity — Built with HTML5 & CSS3
+Yaseen Baloch — Personal Brand Landing Page
 
 <p align="center">
-  <strong>A responsive and professionally designed personal brand website showcasing my identity, technical interests, selected projects, and development journey.</strong>
+  <strong>A Modern Digital Identity Built with HTML5 & CSS3</strong>
 </p><p align="center">
   <a href="https://yaseenbalochpk.github.io/OIBSIP/WebDev-L1-LandingPage/">
-    <img src="https://img.shields.io/badge/LIVE-DEMO-18C79A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo">
+    <img src="https://img.shields.io/badge/Live-Website-18C79A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website">
   </a>
   <a href="https://youtu.be/b6QTykv524A">
-    <img src="https://img.shields.io/badge/VIDEO-DEMO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo">
+    <img src="https://img.shields.io/badge/Watch-Video_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo">
   </a>
   <a href="https://github.com/yaseenbalochpk/OIBSIP">
-    <img src="https://img.shields.io/badge/SOURCE-CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
+    <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository">
   </a>
 </p><p align="center">
-  <img src="https://img.shields.io/badge/HTML5-Structure-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Responsive-Design-18C79A?style=for-the-badge" alt="Responsive Design">
-  <img src="https://img.shields.io/badge/Development-Completed-087F68?style=for-the-badge" alt="Development Completed">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Responsive-Design-18C79A?style=flat-square" alt="Responsive Design">
+  <img src="https://img.shields.io/badge/Status-Development_Completed-087F68?style=flat-square" alt="Completed">
 </p>---
 
-01. PROJECT OVERVIEW
+01. Project Overview
 
-The Personal Brand Landing Page is a frontend web development project developed as part of the Oasis Infobyte Web Development & Designing Internship — Level 1, Task 1.
+The Personal Brand Landing Page is a responsive frontend website developed as part of the Oasis Infobyte Web Development & Designing Internship — Level 1, Task 1.
 
-The project establishes a professional digital presence for Yaseen Baloch, introducing his background, technical interests, selected projects, community involvement, and professional contact channels.
+The project presents a professional digital identity for Muhammad Yaseen, known professionally as Yaseen Baloch.
 
-The website follows a modern Dark Navy and Emerald Green design direction, combining semantic HTML5, modern CSS3, responsive layouts, and a structured user interface.
+It highlights personal background, educational journey, technical interests, selected projects, community leadership, and professional contact information.
 
-02. PROJECT OBJECTIVES
+The website uses a modern Dark Navy and Emerald Green visual theme, with a clean layout, structured sections, and responsive design.
+
+02. Live Demo & Project Links
+
+Resource| Link
+Live Website| "Open Website" (https://yaseenbalochpk.github.io/OIBSIP/WebDev-L1-LandingPage/)
+Video Demonstration| "Watch on YouTube" (https://youtu.be/b6QTykv524A)
+Main GitHub Repository| "OIBSIP Repository" (https://github.com/yaseenbalochpk/OIBSIP)
+Project Folder| "Landing Page Source Code" (https://github.com/yaseenbalochpk/OIBSIP/tree/main/WebDev-L1-LandingPage)
+
+03. Project Screenshots
+
+The following screenshots show the main sections of the completed website.
+
+Homepage
+
+"Homepage Screenshot" (screenshots/homepage.png)
+
+About & Skills
+
+"About and Skills Screenshot" (screenshots/about-skills.png)
+
+Projects & Contact
+
+"Projects and Contact Screenshot" (screenshots/projects-contact.png)
+
+04. Project Objectives
 
 - Create a professional personal brand landing page.
 - Apply semantic HTML5 and modern CSS3.
-- Develop intuitive and accessible navigation.
+- Build clear and intuitive navigation.
 - Present personal information and technical interests.
 - Showcase selected projects and community involvement.
 - Implement responsive layouts for mobile, tablet, and desktop.
-- Practice clean, organized, and maintainable frontend development.
+- Practice clean and maintainable frontend development.
 
-03. LIVE PREVIEW & VIDEO DEMONSTRATION
+05. Technologies Used
 
-Resource| Link
-Live Website| "View Live Project" (https://yaseenbalochpk.github.io/OIBSIP/WebDev-L1-LandingPage/)
-Video Demonstration| "Watch on YouTube" (https://youtu.be/b6QTykv524A)
-GitHub Repository| "View OIBSIP Repository" (https://github.com/yaseenbalochpk/OIBSIP)
-
-The video demonstration presents the project interface, its main sections, and the implemented design.
-
-04. TECHNOLOGY STACK
-
-Technology| Implementation
-HTML5| Semantic page structure and content
-CSS3| Visual styling and responsive layouts
-CSS Flexbox| Navigation, alignment, and flexible components
+Technology| Purpose
+HTML5| Semantic website structure
+CSS3| Styling and visual presentation
+CSS Flexbox| Flexible layouts and alignment
 CSS Grid| Structured content and project layouts
-CSS Media Queries| Responsive behavior across screen sizes
+CSS Media Queries| Responsive design
 Google Fonts| DM Sans and Space Grotesk typography
 
-Architecture: Static frontend website
+Project Type: Static Frontend Website
 JavaScript: Not required
-External Frameworks: None
+Frameworks: None
 
-05. KEY FEATURES
+06. Key Features
 
 Navigation
 
@@ -73,10 +88,10 @@ Navigation
 
 Hero Section
 
-- Professional introduction and headline.
+- Professional introduction.
 - Profile photograph.
-- Supporting description.
-- Primary and secondary call-to-action links.
+- Main headline and supporting description.
+- Primary and secondary action links.
 
 About Section
 
@@ -88,8 +103,8 @@ Skills & Interests
 
 - Programming: Python, C++, JavaScript.
 - Web Development: HTML5, CSS3, Next.js.
-- AI & Automation: AI automation, AI agents, and agentic workflows.
-- Tools: Git, GitHub, VS Code, and Claude-assisted development.
+- AI & Automation: AI automation, AI agents, agentic workflows.
+- Tools: Git, GitHub, VS Code, Claude-assisted development.
 
 Selected Projects
 
@@ -101,46 +116,36 @@ Selected Projects
 Leadership & Community
 
 - Founder of Pakistan Developer Hub (PDH).
-- Focus on technology learning, collaboration, and community development.
+- Focus on technology learning and collaboration.
 
 Contact
 
-- Email.
-- WhatsApp.
-- GitHub.
-- LinkedIn.
-- Facebook.
+- Email and WhatsApp.
+- GitHub and LinkedIn.
+- Facebook profile.
 
-06. DESIGN SYSTEM
+07. Design System
 
-The website uses a consistent visual language built around a dark professional background and emerald accent color.
+The interface follows a consistent Dark Navy and Emerald Green design system.
 
-Design Token| Hex Value| Usage
-Primary Background| "#0B1220"| Main page background
-Secondary Background| "#101B2B"| Alternate section background
-Surface| "#142235"| Cards and content surfaces
-Emerald Accent| "#18C79A"| Highlights and interactive elements
+Design Token| Color| Usage
+Primary Background| "#0B1220"| Main background
+Secondary Background| "#101B2B"| Alternate sections
+Surface| "#142235"| Cards and content
+Emerald Accent| "#18C79A"| Highlights and buttons
 Primary Text| "#F2F7F6"| Main typography
-Secondary Text| "#A4B2BD"| Supporting descriptions
+Secondary Text| "#A4B2BD"| Supporting text
 
 Typography
 
-- DM Sans: Body text and supporting content.
-- Space Grotesk: Headings and prominent interface elements.
+- DM Sans: Body text.
+- Space Grotesk: Headings and prominent text.
 
-Visual Principles
+08. Responsive Design
 
-- Consistent spacing and alignment.
-- Clear content hierarchy.
-- Balanced contrast.
-- Subtle borders and hover states.
-- Responsive composition.
+The website is designed to adapt to different screen sizes using CSS Flexbox, Grid, and Media Queries.
 
-07. RESPONSIVE IMPLEMENTATION
-
-The layout adapts to different screen sizes using CSS Media Queries, Flexbox, and Grid.
-
-Responsive considerations include:
+Responsive implementation includes:
 
 - Desktop navigation and multi-column layouts.
 - Tablet-friendly content arrangements.
@@ -148,34 +153,40 @@ Responsive considerations include:
 - Flexible project cards and contact links.
 - Readable typography and consistent spacing.
 
-08. PROJECT STRUCTURE
+09. Project Structure
 
 WebDev-L1-LandingPage/
 │
 ├── assets/
 │   └── profile.jpg
 │
+├── screenshots/
+│   ├── homepage.png
+│   ├── about-skills.png
+│   └── projects-contact.png
+│
 ├── index.html
 ├── style.css
 └── README.md
 
-File / Directory| Responsibility
-"index.html"| Main website structure and content
-"style.css"| Visual design and responsive styling
+File / Directory| Description
+"index.html"| Main website structure
+"style.css"| Styling and responsive layouts
 "assets/"| Website image assets
+"screenshots/"| Project preview screenshots
 "README.md"| Project documentation
 
-09. INSTALLATION & EXECUTION
+10. Installation & Execution
 
 This is a static frontend project. No package installation or build process is required.
 
 Option 1 — Download
 
-1. Download the project repository.
+1. Download the repository.
 2. Extract the project folder.
-3. Open "index.html" in a modern web browser.
+3. Open "index.html" in a modern browser.
 
-Option 2 — Clone Repository
+Option 2 — Clone with Git
 
 Clone the repository:
 
@@ -187,44 +198,44 @@ cd OIBSIP/WebDev-L1-LandingPage
 
 Open "index.html" in your browser.
 
-10. DEVELOPMENT & QUALITY NOTES
+11. Development & Quality Notes
 
-The implementation focuses on:
+The project focuses on:
 
 - Organized HTML and CSS files.
-- Consistent naming and styling patterns.
+- Semantic HTML sections.
+- Consistent naming and styling.
 - Responsive layout techniques.
-- Semantic page sections.
 - Descriptive image alternative text.
-- Safe external links using appropriate link attributes.
+- Safe external links.
 - Reduced-motion preference support.
 
-The project uses HTML5 and CSS3 in accordance with the selected task's technology requirements.
+The implementation follows the selected task's HTML5 and CSS3 technology requirements.
 
-11. INTERNSHIP DETAILS
+12. Internship Information
 
-Field| Information
+Field| Details
 Organization| Oasis Infobyte
 Internship Track| Web Development & Designing
 Level| Level 1
-Task Number| Task 1
-Task Title| Landing Page
+Task| Task 1 — Landing Page
 Project Category| Personal Brand Website
-Developer| Muhammad Yaseen
+Developer's Full Name| Muhammad Yaseen
+Personal Brand| Yaseen Baloch
 
-12. DEVELOPER PROFILE
+13. About the Developer
 
 Muhammad Yaseen
 
 Personal Brand: Yaseen Baloch
 
-Computer Science undergraduate and aspiring Software Engineer with interests in modern web development, programming, AI automation, and technology entrepreneurship.
+Computer Science undergraduate and aspiring Software Engineer interested in programming, modern web development, AI automation, and technology entrepreneurship.
 
-I believe in continuous learning, practical implementation, knowledge sharing, and building meaningful digital solutions.
+Focused on continuous learning, practical implementation, knowledge sharing, and building meaningful digital solutions.
 
-Connect & Collaborate
+Connect With Me
 
-- GitHub: "github.com/yaseenbalochpk" (https://github.com/yaseenbalochpk)
+- GitHub: "yaseenbalochpk" (https://github.com/yaseenbalochpk)
 - LinkedIn: "Muhammad Yaseen" (https://www.linkedin.com/in/muhammad-yaseen-b308b53b1/)
 - Facebook: "Yaseen Baloch" (https://www.facebook.com/share/1BTi6rtPhD/?mibextid=wwXIfr)
 - Email: "yaseenonliepk@gmail.com" (mailto:yaseenonliepk@gmail.com)
