@@ -1,229 +1,49 @@
-✦ YASEEN BALOCH
+# ✦ YASEEN BALOCH
 
-PERSONAL PORTFOLIO WEBSITE
+## PERSONAL PORTFOLIO WEBSITE
 
-A Premium Digital Identity — Designed with HTML5 & CSS3
+### A Premium Digital Identity — Designed with HTML5 & CSS3
 
-Turning Ideas into Digital Experiences.
+**Turning Ideas into Digital Experiences.**
+
+[🌐 LIVE WEBSITE](https://yaseenbalochpk.github.io/OIBSIP/WebDev-L1-PersonalPortfolio/)
+
+[▶ WATCH VIDEO DEMO](https://youtu.be/St_7uZtlI4U)
+
+[⌘ SOURCE CODE](https://github.com/yaseenbalochpk/OIBSIP/tree/main/WebDev-L1-PersonalPortfolio)
+
+![HTML5](https://img.shields.io/badge/HTML5-STRUCTURE-E34F26?style=for-the-badge&logo=html5)
+
+![CSS3](https://img.shields.io/badge/CSS3-STYLING-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+## ✨ 01. PROJECT OVERVIEW
 
 A modern, responsive personal portfolio showcasing my professional identity, technical skills, selected projects, leadership experience, and development journey.
 
-⸻
+---
 
-✨ 01. PROJECT OVERVIEW
+## 🛠️ 02. TECHNOLOGY STACK
 
-The Personal Portfolio Website is a frontend development project created as part of the Oasis Infobyte Web Development & Designing Internship — Level 1, Task 2.
+| Technology | Purpose |
+|---|---|
+| HTML5 | Website structure |
+| CSS3 | Styling and presentation |
+| Flexbox | Flexible layouts |
+| CSS Grid | Content layouts |
+| Media Queries | Responsive design |
 
-This project represents my professional digital identity through a modern and visually engaging portfolio.
+---
 
-The website introduces Muhammad Yaseen, professionally known as Yaseen Baloch, a Computer Science undergraduate and aspiring Software Engineer interested in programming, web development, AI automation, and technology entrepreneurship.
+## 👨‍💻 03. ABOUT THE DEVELOPER
 
-The design combines a premium dark interface, purple accents, modern typography, elegant content cards, and responsive layouts.
-
-Design Philosophy: Learn continuously. Build meaningfully. Innovate confidently.
-
-⸻
-
-🌐 02. PROJECT LINKS
-
-Resource	Link
-🌍 Live Website	Explore Portfolio ↗
-🎬 Video Demonstration	Watch on YouTube ↗
-💻 Source Code	View GitHub Project ↗
-📁 Main Repository	OIBSIP Repository ↗
-
-⸻
-
-🎯 03. PROJECT OBJECTIVES
-
-* Develop a professional personal portfolio website.
-* Present personal identity and educational background.
-* Showcase technical skills and development interests.
-* Highlight selected projects and practical work.
-* Apply semantic HTML5 and modern CSS3.
-* Create responsive layouts for different screen sizes.
-* Provide accessible professional contact channels.
-
-⸻
-
-⚡ 04. KEY FEATURES
-
-Feature	Description
-✨ Hero Section	Professional introduction, profile image and action links
-👨‍💻 About Me	Educational background and development journey
-⚙️ Skills & Interests	Programming, web development and AI interests
-🚀 Projects Showcase	Selected projects and development work
-🤝 Leadership	Pakistan Developer Hub community involvement
-📱 Responsive Design	Mobile, tablet and desktop layouts
-🎨 Premium Interface	Dark theme, purple accents and elegant cards
-📬 Contact Section	Professional and social media connections
-
-⸻
-
-🛠️ 05. TECHNOLOGY STACK
-
-Technology	Implementation
-HTML5	Semantic website structure
-CSS3	Visual styling and presentation
-CSS Flexbox	Flexible layouts and alignment
-CSS Grid	Structured content and project layouts
-Media Queries	Responsive behavior
-Google Fonts	Modern typography
-
-Architecture: Static Frontend Website
-
-JavaScript: Not required
-
-External Frameworks: None
-
-⸻
-
-🎨 06. DESIGN SYSTEM
-
-The portfolio follows a premium Dark Black and Purple visual direction.
-
-Design Token	Color	Purpose
-Main Background	#09090F	Primary background
-Secondary Background	#11111C	Alternate sections
-Card Surface	#171725	Content cards
-Primary Accent	#A855F7	Highlights and buttons
-Secondary Accent	#7C3AED	Accent details
-Primary Text	#F8FAFC	Main typography
-Secondary Text	#A1A1AA	Supporting content
-
-Typography
-
-* Space Grotesk — Headings.
-* Inter — Body text.
-
-Visual Principles
-
-* Clear visual hierarchy.
-* Consistent spacing and alignment.
-* Balanced contrast.
-* Subtle gradients and borders.
-* Responsive composition.
-
-⸻
-
-💼 07. SKILLS & TECHNICAL INTERESTS
-
-Category	Skills & Interests
-Programming	Python, C++, JavaScript
-Web Development	HTML5, CSS3, Next.js
-AI & Automation	AI Agents, Agentic Workflows
-Development Tools	Git, GitHub, VS Code
-Frontend	Responsive Design and UI Development
-
-⸻
-
-🚀 08. SELECTED PROJECTS
-
-📋 TaskFlow-Pro
-A productivity and task management project.
-
-🐍 Python Learning
-A repository documenting Python programming practice and learning.
-
-🌐 Web Development Journey
-A collection of frontend development practice and learning.
-
-⚛️ Personal Website — Next.js
-An ongoing personal website development project.
-
-⸻
-
-🤝 09. LEADERSHIP & COMMUNITY
-
-Pakistan Developer Hub — PDH
-
-Founder of Pakistan Developer Hub, a community initiative focused on technology learning, collaboration, knowledge sharing, and developer growth.
-
-⸻
-
-📱 10. RESPONSIVE IMPLEMENTATION
-
-The website adapts to different screen sizes using CSS Flexbox, Grid, and Media Queries.
-
-* 🖥️ Desktop: Structured layouts and navigation.
-* 📱 Mobile: Compact navigation and vertically arranged sections.
-* 📟 Tablet: Flexible content arrangements.
-* ♿ Accessibility: Semantic sections and descriptive image text.
-
-⸻
-
-📂 11. PROJECT STRUCTURE
-
-WebDev-L1-PersonalPortfolio/
-│
-├── assets/
-│   └── profile.jpg
-│
-├── screenshots/
-│   └── Your uploaded screenshots
-│
-├── index.html
-├── style.css
-└── README.md
-
-File / Directory	Responsibility
-index.html	Main website structure
-style.css	Visual styling and responsive layouts
-assets/	Profile image and website assets
-screenshots/	Project preview images
-README.md	Project documentation
-
-⸻
-
-⚙️ 12. INSTALLATION & EXECUTION
-
-This is a static frontend project. No package installation or build process is required.
-
-Step 1 — Clone Repository
-
-git clone https://github.com/yaseenbalochpk/OIBSIP.git
-
-Step 2 — Navigate to Project
-
-cd OIBSIP/WebDev-L1-PersonalPortfolio
-
-Step 3 — Open Website
-
-Open index.html in a modern web browser.
-
-⸻
-
-🏢 13. INTERNSHIP DETAILS
-
-Field	Information
-Organization	Oasis Infobyte
-Internship Track	Web Development & Designing
-Level	Level 1
-Task	Task 2 — Personal Portfolio
-Project Category	Personal Portfolio Website
-Full Name	Muhammad Yaseen
-Personal Brand	Yaseen Baloch
-
-⸻
-
-👨‍💻 14. ABOUT THE DEVELOPER
-
-Muhammad Yaseen
+**Muhammad Yaseen**
 
 Personal Brand: Yaseen Baloch
 
-Computer Science undergraduate and aspiring Software Engineer with interests in programming, modern web development, AI automation, and technology entrepreneurship.
+[GitHub](https://github.com/yaseenbalochpk) · [LinkedIn](https://www.linkedin.com/in/muhammad-yaseen-b308b53b1/) · [YouTube](https://youtube.com/@yaseenbalochpk)
 
-Focused on continuous learning, practical implementation, knowledge sharing, and building meaningful digital solutions.
+---
 
-🔗 CONNECT & COLLABORATE
-
-⸻
-
-LEARN. BUILD. INNOVATE. GROW.
-
-Designed & Developed by Muhammad Yaseen
-
-Personal Brand — Yaseen Baloch
-
-© 2026 Yaseen Baloch
+**LEARN. BUILD. INNOVATE. GROW.**
