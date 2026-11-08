@@ -6,132 +6,132 @@ A Premium Digital Identity — Designed with HTML5 & CSS3
 
 Turning Ideas into Digital Experiences.
 
-A modern, responsive personal portfolio created to showcase my professional identity, technical interests, selected projects, leadership experience, and journey in technology.
-
-<p align="center">
-  <a href="https://yaseenbalochpk.github.io/OIBSIP/WebDev-L1-PersonalPortfolio/">
-    <img src="https://img.shields.io/badge/🌐_LIVE_WEBSITE-EXPLORE_PORTFOLIO-A855F7?style=for-the-badge" alt="Live Website">
-  </a>
-  <a href="https://youtu.be/St_7uZtlI4U">
-    <img src="https://img.shields.io/badge/▶_VIDEO_DEMO-WATCH_ON_YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Video Demo">
-  </a>
-  <a href="https://github.com/yaseenbalochpk/OIBSIP/tree/main/WebDev-L1-PersonalPortfolio">
-    <img src="https://img.shields.io/badge/⌘_SOURCE_CODE-VIEW_ON_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
-  </a>
-</p>
-<p align="center">
-  ![HTML5](https://img.shields.io/badge/HTML5-STRUCTURE-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-STYLING-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Responsive](https://img.shields.io/badge/RESPONSIVE-MOBILE_FRIENDLY-22C55E?style=for-the-badge)
-  ![Internship](https://img.shields.io/badge/OASIS_INFOBYTE-LEVEL_1_TASK_2-A855F7?style=for-the-badge)
-</p>
+A modern, responsive personal portfolio showcasing my professional identity, technical skills, selected projects, leadership experience, and development journey.
 
 ⸻
 
 ✨ 01. PROJECT OVERVIEW
 
-The Personal Portfolio Website is a frontend development project developed as part of the Oasis Infobyte Web Development & Designing Internship — Level 1, Task 2.
+The Personal Portfolio Website is a frontend development project created as part of the Oasis Infobyte Web Development & Designing Internship — Level 1, Task 2.
 
-The project presents a professional digital identity through a visually engaging and responsive portfolio.
+This project represents my professional digital identity through a modern and visually engaging portfolio.
 
-It introduces Muhammad Yaseen, professionally known as Yaseen Baloch, a Computer Science undergraduate and aspiring Software Engineer with interests in programming, web development, AI automation, and technology entrepreneurship.
+The website introduces Muhammad Yaseen, professionally known as Yaseen Baloch, a Computer Science undergraduate and aspiring Software Engineer interested in programming, web development, AI automation, and technology entrepreneurship.
 
-The visual direction combines a premium dark interface, purple accents, modern typography, elegant content cards, and responsive layouts.
+The design combines a premium dark interface, purple accents, modern typography, elegant content cards, and responsive layouts.
 
 Design Philosophy: Learn continuously. Build meaningfully. Innovate confidently.
 
-🌐 02. EXPLORE THE PROJECT
+⸻
 
-Project Resource	Access
-🌐 Live Website	Explore Portfolio ↗
+🌐 02. PROJECT LINKS
+
+Resource	Link
+🌍 Live Website	Explore Portfolio ↗
 🎬 Video Demonstration	Watch on YouTube ↗
-💻 Source Code	Explore GitHub Repository ↗
-🏠 Main Repository	OIBSIP — GitHub ↗
+💻 Source Code	View GitHub Project ↗
+📁 Main Repository	OIBSIP Repository ↗
+
+⸻
 
 🎯 03. PROJECT OBJECTIVES
 
-* Establish a professional online portfolio.
+* Develop a professional personal portfolio website.
 * Present personal identity and educational background.
-* Showcase technical skills and areas of interest.
-* Highlight selected projects and practical development work.
-* Demonstrate HTML5 and CSS3 implementation.
-* Create a responsive experience across different devices.
+* Showcase technical skills and development interests.
+* Highlight selected projects and practical work.
+* Apply semantic HTML5 and modern CSS3.
+* Create responsive layouts for different screen sizes.
 * Provide accessible professional contact channels.
 
-⚡ 04. FEATURE HIGHLIGHTS
+⸻
+
+⚡ 04. KEY FEATURES
 
 Feature	Description
-✨ Hero Section	Personal introduction, profile image and action links
-👨‍💻 About Me	Education, background and development journey
+✨ Hero Section	Professional introduction, profile image and action links
+👨‍💻 About Me	Educational background and development journey
 ⚙️ Skills & Interests	Programming, web development and AI interests
-🚀 Projects	Selected projects and ongoing work
+🚀 Projects Showcase	Selected projects and development work
 🤝 Leadership	Pakistan Developer Hub community involvement
-📱 Responsive Layout	Adaptable mobile, tablet and desktop presentation
-🎨 Visual Identity	Premium dark theme with purple accents
-📬 Contact	Professional and social media connections
+📱 Responsive Design	Mobile, tablet and desktop layouts
+🎨 Premium Interface	Dark theme, purple accents and elegant cards
+📬 Contact Section	Professional and social media connections
+
+⸻
 
 🛠️ 05. TECHNOLOGY STACK
 
-Technology	Purpose
-HTML5	Semantic structure and website content
-CSS3	Styling and visual presentation
+Technology	Implementation
+HTML5	Semantic website structure
+CSS3	Visual styling and presentation
 CSS Flexbox	Flexible layouts and alignment
 CSS Grid	Structured content and project layouts
-CSS Media Queries	Responsive behavior
-Google Fonts	Typography and visual consistency
+Media Queries	Responsive behavior
+Google Fonts	Modern typography
 
-Project Architecture: Static Frontend Website
-JavaScript: Not required for this implementation
+Architecture: Static Frontend Website
+
+JavaScript: Not required
+
 External Frameworks: None
 
-🎨 06. VISUAL DESIGN SYSTEM
+⸻
 
-The portfolio uses a premium dark visual identity with purple accents.
+🎨 06. DESIGN SYSTEM
 
-Design Element	Color	Purpose
+The portfolio follows a premium Dark Black and Purple visual direction.
+
+Design Token	Color	Purpose
 Main Background	#09090F	Primary background
 Secondary Background	#11111C	Alternate sections
 Card Surface	#171725	Content cards
-Primary Accent	#A855F7	Highlights and interactive elements
+Primary Accent	#A855F7	Highlights and buttons
 Secondary Accent	#7C3AED	Accent details
-Primary Text	#F8FAFC	Main content
-Secondary Text	#A1A1AA	Supporting text
+Primary Text	#F8FAFC	Main typography
+Secondary Text	#A1A1AA	Supporting content
 
 Typography
 
-* Space Grotesk — Headings and prominent text.
-* Inter — Body text and descriptions.
+* Space Grotesk — Headings.
+* Inter — Body text.
 
-Design Principles
+Visual Principles
 
 * Clear visual hierarchy.
 * Consistent spacing and alignment.
-* Balanced contrast and readability.
-* Subtle borders and gradients.
-* Responsive content composition.
+* Balanced contrast.
+* Subtle gradients and borders.
+* Responsive composition.
+
+⸻
 
 💼 07. SKILLS & TECHNICAL INTERESTS
 
-Category	Technologies & Interests
+Category	Skills & Interests
 Programming	Python, C++, JavaScript
 Web Development	HTML5, CSS3, Next.js
 AI & Automation	AI Agents, Agentic Workflows
 Development Tools	Git, GitHub, VS Code
 Frontend	Responsive Design and UI Development
 
+⸻
+
 🚀 08. SELECTED PROJECTS
 
-TaskFlow-Pro
+📋 TaskFlow-Pro
 A productivity and task management project.
 
-Python Learning
+🐍 Python Learning
 A repository documenting Python programming practice and learning.
 
-Web Development Journey
+🌐 Web Development Journey
 A collection of frontend development practice and learning.
 
-Personal Website — Next.js
+⚛️ Personal Website — Next.js
 An ongoing personal website development project.
+
+⸻
 
 🤝 09. LEADERSHIP & COMMUNITY
 
@@ -139,14 +139,18 @@ Pakistan Developer Hub — PDH
 
 Founder of Pakistan Developer Hub, a community initiative focused on technology learning, collaboration, knowledge sharing, and developer growth.
 
+⸻
+
 📱 10. RESPONSIVE IMPLEMENTATION
 
-The website is designed to adapt to different screen sizes using CSS Flexbox, Grid, and Media Queries.
+The website adapts to different screen sizes using CSS Flexbox, Grid, and Media Queries.
 
-* Desktop: Structured layouts and navigation.
-* Tablet: Flexible content arrangements.
-* Mobile: Compact navigation and vertically arranged sections.
-* Accessibility: Semantic page sections and descriptive image text.
+* 🖥️ Desktop: Structured layouts and navigation.
+* 📱 Mobile: Compact navigation and vertically arranged sections.
+* 📟 Tablet: Flexible content arrangements.
+* ♿ Accessibility: Semantic sections and descriptive image text.
+
+⸻
 
 📂 11. PROJECT STRUCTURE
 
@@ -156,53 +160,59 @@ WebDev-L1-PersonalPortfolio/
 │   └── profile.jpg
 │
 ├── screenshots/
-│   └── [your uploaded screenshot files]
+│   └── Your uploaded screenshots
 │
 ├── index.html
 ├── style.css
 └── README.md
 
 File / Directory	Responsibility
-index.html	Main website structure and content
+index.html	Main website structure
 style.css	Visual styling and responsive layouts
 assets/	Profile image and website assets
-screenshots/	Project screenshots
+screenshots/	Project preview images
 README.md	Project documentation
+
+⸻
 
 ⚙️ 12. INSTALLATION & EXECUTION
 
 This is a static frontend project. No package installation or build process is required.
 
-Step 1 — Clone the Repository
+Step 1 — Clone Repository
 
 git clone https://github.com/yaseenbalochpk/OIBSIP.git
 
-Step 2 — Navigate to the Project
+Step 2 — Navigate to Project
 
 cd OIBSIP/WebDev-L1-PersonalPortfolio
 
-Step 3 — Run the Website
+Step 3 — Open Website
 
 Open index.html in a modern web browser.
 
-🏢 13. INTERNSHIP INFORMATION
+⸻
 
-Field	Details
+🏢 13. INTERNSHIP DETAILS
+
+Field	Information
 Organization	Oasis Infobyte
 Internship Track	Web Development & Designing
 Level	Level 1
 Task	Task 2 — Personal Portfolio
-Project Type	Personal Portfolio Website
-Developer	Muhammad Yaseen
+Project Category	Personal Portfolio Website
+Full Name	Muhammad Yaseen
 Personal Brand	Yaseen Baloch
+
+⸻
 
 👨‍💻 14. ABOUT THE DEVELOPER
 
 Muhammad Yaseen
 
-Personal Brand — Yaseen Baloch
+Personal Brand: Yaseen Baloch
 
-Computer Science undergraduate and aspiring Software Engineer interested in programming, modern web development, AI automation, and technology entrepreneurship.
+Computer Science undergraduate and aspiring Software Engineer with interests in programming, modern web development, AI automation, and technology entrepreneurship.
 
 Focused on continuous learning, practical implementation, knowledge sharing, and building meaningful digital solutions.
 
