@@ -1,1 +1,253 @@
+✦ YASEEN BALOCH | PERSONAL PORTFOLIO WEBSITE
 
+A Premium Digital Identity — Designed with HTML5 & CSS3
+
+Turning Ideas into Digital Experiences.
+
+A modern, responsive personal portfolio showcasing my professional identity, technical skills, selected projects, leadership, and development journey.
+
+⸻
+
+✨ 01. ABOUT THE PROJECT
+
+The Personal Portfolio Website is a frontend development project created as part of the Oasis Infobyte Web Development & Designing Internship — Level 1, Task 2.
+
+This project presents my digital identity through a modern and visually engaging portfolio.
+
+The website introduces Muhammad Yaseen, professionally known as Yaseen Baloch, a Computer Science undergraduate and aspiring Software Engineer interested in programming, web development, AI automation, and technology entrepreneurship.
+
+The interface features a premium Dark Black and Purple design, modern typography, elegant content cards, subtle gradients, and responsive layouts.
+
+Design Philosophy: Learn continuously. Build meaningfully. Innovate confidently.
+
+⸻
+
+🌐 02. LIVE PROJECT & VIDEO DEMONSTRATION
+
+Resource	Explore
+🌐 Live Website	Visit Portfolio ↗
+🎬 Video Demo	Watch on YouTube ↗
+💻 Source Code	View GitHub Project ↗
+
+⸻
+
+🎯 03. PROJECT OBJECTIVES
+
+* Develop a professional personal portfolio website.
+* Present personal identity and educational background.
+* Showcase technical skills and development interests.
+* Highlight selected projects and community involvement.
+* Apply semantic HTML5 and modern CSS3 techniques.
+* Build responsive layouts for mobile, tablet, and desktop.
+* Provide accessible professional contact channels.
+
+⸻
+
+⚡ 04. KEY FEATURES
+
+Feature	Description
+✨ Hero Section	Professional introduction, profile photo and action buttons
+👨‍💻 About Me	Educational background and development journey
+⚙️ Skills & Interests	Programming, web development and AI interests
+🚀 Projects Showcase	Selected development projects
+🤝 Leadership	Pakistan Developer Hub community involvement
+📱 Responsive Design	Mobile, tablet and desktop layouts
+🎨 Premium UI	Dark interface, purple accents and elegant cards
+📬 Contact	Social media and professional communication links
+
+⸻
+
+🛠️ 05. TECHNOLOGY STACK
+
+Technology	Implementation
+HTML5	Semantic website structure
+CSS3	Styling and visual presentation
+CSS Flexbox	Flexible layouts and alignment
+CSS Grid	Structured content and project cards
+Media Queries	Responsive behavior
+Google Fonts	Space Grotesk and Inter typography
+
+Architecture: Static Frontend Website
+
+JavaScript: Not required
+
+External Frameworks: None
+
+⸻
+
+🎨 06. DESIGN SYSTEM
+
+The portfolio follows a premium Dark Black and Purple visual identity.
+
+Design Token	Color Code	Purpose
+Main Background	#09090F	Primary background
+Secondary Background	#11111C	Alternate sections
+Card Surface	#171725	Content cards
+Primary Accent	#A855F7	Buttons and highlights
+Secondary Accent	#7C3AED	Gradients and accents
+Primary Text	#F8FAFC	Main typography
+Secondary Text	#A1A1AA	Supporting descriptions
+
+Typography
+
+* Space Grotesk — Headings and prominent text.
+* Inter — Body text and descriptions.
+
+Visual Direction
+
+* Premium dark interface.
+* Purple gradient accents.
+* Subtle glow effects.
+* Elegant cards and borders.
+* Consistent spacing and alignment.
+* Clear typography hierarchy.
+
+⸻
+
+🖼️ 07. WEBSITE SCREENSHOTS
+
+01 — Homepage & Hero Section
+
+02 — About Me & Technical Skills
+
+03 — Projects Showcase
+
+04 — Contact & Social Connections
+
+⸻
+
+💼 08. SKILLS & TECHNICAL INTERESTS
+
+The portfolio highlights technologies and areas I am learning, practicing, and exploring.
+
+Category	Skills & Interests
+Programming	Python, C++, JavaScript
+Web Development	HTML5, CSS3, Next.js
+AI & Automation	AI Agents, Agentic Workflows
+Tools	Git, GitHub, VS Code
+Frontend	Responsive Design and UI Development
+
+⸻
+
+🚀 09. SELECTED PROJECTS
+
+📋 TaskFlow-Pro
+
+A productivity and task management project.
+
+Status: Completed
+
+🐍 Python Learning
+
+A repository documenting Python programming practice and learning.
+
+🌐 Web Development Journey
+
+A collection of frontend development practice and learning.
+
+⚛️ Personal Website — Next.js
+
+An ongoing personal website development project.
+
+Status: In Progress
+
+⸻
+
+🤝 10. LEADERSHIP & COMMUNITY
+
+Pakistan Developer Hub — PDH
+
+Founder of Pakistan Developer Hub, a community initiative focused on technology learning, collaboration, knowledge sharing, and developer growth.
+
+⸻
+
+📱 11. RESPONSIVE IMPLEMENTATION
+
+The website adapts to different screen sizes through CSS Media Queries, Flexbox, and Grid.
+
+* 🖥️ Desktop — Structured layouts and navigation.
+* 📱 Mobile — Compact navigation and vertically arranged sections.
+* 📟 Tablet — Flexible content arrangements.
+* ♿ Accessibility — Semantic sections and descriptive image text.
+
+⸻
+
+📂 12. PROJECT STRUCTURE
+
+WebDev-L1-PersonalPortfolio/
+│
+├── assets/
+│   └── profile.jpg
+│
+├── screenshots/
+│   ├── homepage.png
+│   ├── about-skills.png
+│   ├── projects.png
+│   └── contact.png
+│
+├── index.html
+├── style.css
+└── README.md
+
+File / Directory	Responsibility
+index.html	Main website structure
+style.css	Visual design and responsive styling
+assets/	Profile photograph and website assets
+screenshots/	Website preview images
+README.md	Project documentation
+
+⸻
+
+⚙️ 13. INSTALLATION & EXECUTION
+
+This is a static frontend project. No package installation or build process is required.
+
+Step 1 — Clone Repository
+
+git clone https://github.com/yaseenbalochpk/OIBSIP.git
+
+Step 2 — Navigate to Project
+
+cd OIBSIP/WebDev-L1-PersonalPortfolio
+
+Step 3 — Open Website
+
+Open index.html in your preferred modern web browser.
+
+⸻
+
+🏢 14. INTERNSHIP DETAILS
+
+Field	Information
+Organization	Oasis Infobyte
+Internship Program	Oasis Infobyte Internship
+Track	Web Development & Designing
+Level	Level 1
+Task	Task 2 — Personal Portfolio
+Project Category	Personal Portfolio Website
+Full Name	Muhammad Yaseen
+Personal Brand	Yaseen Baloch
+
+⸻
+
+👨‍💻 15. ABOUT THE DEVELOPER
+
+Muhammad Yaseen
+
+Personal Brand: Yaseen Baloch
+
+Computer Science undergraduate and aspiring Software Engineer with interests in programming, modern web development, AI automation, and technology entrepreneurship.
+
+Focused on continuous learning, practical implementation, knowledge sharing, and building meaningful digital solutions.
+
+🔗 CONNECT & COLLABORATE
+
+⸻
+
+LEARN. BUILD. INNOVATE. GROW.
+
+Designed & Developed by Muhammad Yaseen
+
+Personal Brand — Yaseen Baloch
+
+© 2026 Yaseen Baloch
