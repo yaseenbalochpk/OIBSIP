@@ -9,7 +9,7 @@ A modern, responsive personal portfolio created to showcase my professional iden
 
 ---
 
-### 🌐 EXPLORE THE PROJECT
+## 🌐 EXPLORE THE PROJECT
 
 [![LIVE WEBSITE](https://img.shields.io/badge/🌐_LIVE_WEBSITE-EXPLORE_PORTFOLIO-22C55E?style=for-the-badge)](https://yaseenbalochpk.github.io/OIBSIP/WebDev-L1-PersonalPortfolio/)
 
@@ -134,15 +134,19 @@ The portfolio follows a premium Dark Black and Purple visual direction.
 ## 🚀 07. SELECTED PROJECTS
 
 ### 📋 TaskFlow-Pro
+
 A productivity and task management project.
 
 ### 🐍 Python Learning
+
 A repository documenting Python programming practice and learning.
 
 ### 🌐 Web Development Journey
+
 A collection of frontend development practice and learning.
 
 ### ⚛️ Personal Website — Next.js
+
 An ongoing personal website development project.
 
 ---
@@ -170,7 +174,7 @@ The website is designed to adapt to different screen sizes using CSS Flexbox, Gr
 
 ## 📂 10. PROJECT STRUCTURE
 
-```text
+~~~~text
 WebDev-L1-PersonalPortfolio/
 │
 ├── assets/
